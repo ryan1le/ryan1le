@@ -19,7 +19,7 @@ My name is Ryan Le and I'm a second year Toronto Metropolitan (Ryerson) Universi
 
 😄 About me
 
-🌱 I’m currently learning HTML/CSS and Javacript
-🔭 I’m currently working on a Trivia game website to help with my learning process of the languages above
-🤔 I’m looking for Summer 2023 co-op opportunities 
-📫 How to reach me (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
+- 🌱 I’m currently learning HTML/CSS and Javacript
+- 🔭 I’m currently working on a Trivia game website to help with my learning process of the languages above
+- 🤔 I’m looking for Summer 2023 co-op opportunities 
+- 📫 How to reach me (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
