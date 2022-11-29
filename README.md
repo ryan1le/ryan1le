@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan Le and I'm a second year Toronto Metropolitan (Ryerson) University student studying Computer/Software Engineering!
+My name is Ryan Le and I'm a third year Toronto Metropolitan (Ryerson) University student studying Computer/Software Engineering!
 
 😄 About me
 
