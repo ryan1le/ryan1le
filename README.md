@@ -20,6 +20,6 @@ My name is Ryan Le and I'm a third year Toronto Metropolitan (Formerly Ryerson) 
 😄 About me
 
 - 🌱 I’m currently learning Node.js and React.js
-- 🔭 I’m currently working on a Trivia game website to help with my learning process of the languages above
+- 🔭 I’m currently working on a web based UI that deploys a database management system from Oracle SQL Developer
 - 🤔 I’m looking for Summer 2023 co-op opportunities 
 - 📫 How to reach me via (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
