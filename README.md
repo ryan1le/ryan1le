@@ -19,7 +19,7 @@ My name is Ryan Le and I'm a third year Toronto Metropolitan (Formerly Ryerson) 
 
 👨‍💻 Work Experience
 
- - Software Developer @ [Toronto MetRobotics](https://teamtmr.ca/) Autonomous Division [Sept 2022 - Present]
+ - Software Developer @ [Toronto MetRobotics](https://teamtmr.ca/) | Autonomous Division [Sept 2022 - Present]
 
 😄 About me
 
