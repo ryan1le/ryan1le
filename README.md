@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 My name is Ryan Le and I'm a third year Toronto Metropolitan (Formerly Ryerson) University student studying Computer/Software Engineering!
 
+👨‍💻 Work Experience
+
+ - Software Developer @ [Toronto MetRobotics](https://teamtmr.ca/) Autonomous Division [Sept 2022 - Present]
+
 😄 About me
 
 - 🌱 I’m currently learning Node.js and React.js
