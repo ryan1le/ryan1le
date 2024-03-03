@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- - 🔭 I’m currently working on a web-based UI that deploys a database management system from Oracle SQL Developer -->
 
 My name is Ryan Le and I'm a Fourth year Toronto Metropolitan (Formerly Ryerson) University student studying Computer/Software Engineering!
 
@@ -25,6 +26,5 @@ My name is Ryan Le and I'm a Fourth year Toronto Metropolitan (Formerly Ryerson)
 😄 About me
 
 - 🌱 I’m currently learning Rust and Vue
-<!-- - 🔭 I’m currently working on a web-based UI that deploys a database management system from Oracle SQL Developer -->
 - 🤔 I’m looking for Summer 2024 Software Engineering co-op opportunities 
 - 📫 How to reach me via (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
