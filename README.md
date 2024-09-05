@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/6194a59b-e54a-431b-9ef1-2d7769e9f0b7)### Hi there 👋
 
 <!--
 **ryan1le/ryan1le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on a web-based UI that deploys a database management system from Oracle SQL Developer -->
 
-My name is Ryan Le and I'm a Fourth year Toronto Metropolitan (Formerly Ryerson) University student studying Computer/Software Engineering!
+My name is Ryan Le and I'm a Fifth year Toronto Metropolitan (Formerly Ryerson) University student studying Computer/Software Engineering!
 
 👨‍💻 Work Experience
 
- - Full-Stack Web Developer Intern @ WSP Canada [Fall 2023 - Present]
+ - Full-Stack Web Developer Intern @ WSP Canada [Fall 2023 - August 2024]
+ - Team Captain @ [Toronto MetRobotics](https://teamtmr.ca/) [Sept 2024 - Present]
  - Software Developer Lead @ [Toronto MetRobotics](https://teamtmr.ca/) | Autonomous Division [Sept 2022 - Present]
 
 😄 About me
 
-- 🌱 I’m currently learning Rust and Vue
-- 🤔 I’m looking for Summer 2024 Software Engineering co-op opportunities 
+- 🌱 I’m currently learning Rust and GO
+- 🤔 I’m looking for Graduate Software Engineering opportunities 
 - 📫 How to reach me via (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
