@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6194a59b-e54a-431b-9ef1-2d7769e9f0b7)### Hi there 👋
+### Hi there 👋
 
 <!--
 **ryan1le/ryan1le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
