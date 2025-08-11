@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on a web-based UI that deploys a database management system from Oracle SQL Developer -->
 
-My name is Ryan Le and I'm a Fifth year Toronto Metropolitan (Formerly Ryerson) University student studying Computer/Software Engineering!
+My name is Ryan Le and I'm a Toronto Metropolitan (Formerly Ryerson) University Graduate, who studied Computer/Software Engineering!
 
 👨‍💻 Work Experience
 
  - Full-Stack Developer Intern @ WSP Canada [Fall 2023 - August 2024]
- - Team Captain @ [Toronto MetRobotics](https://www.torontometrobotics.com/) [Sept 2024 - Present]
- - Software Developer Lead @ [Toronto MetRobotics](https://www.torontometrobotics.com/) | Autonomous Division [Sept 2022 - Present]
+ - Team Captain @ [Toronto MetRobotics](https://www.torontometrobotics.com/) [Aug 2024 - Aug 2025]
+ - Software Developer Lead @ [Toronto MetRobotics](https://www.torontometrobotics.com/) | Autonomous Division [Sept 2022 - Aug 2025]
 
 😄 About me
 
