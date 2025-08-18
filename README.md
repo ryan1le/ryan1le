@@ -29,3 +29,4 @@ My name is Ryan Le and I'm a Toronto Metropolitan (Formerly Ryerson) University 
 - 🌱 I’m currently learning Rust and GO
 - 🤔 I’m looking for Graduate Software Engineering opportunities 
 - 📫 How to reach me via (email || LinkedIn): ryanle.le@gmail.com || www.linkedin.com/in/ryan-le-a480091b8
+- 🚀 Check out my portfolio @ [ryan-le.com](https://www.ryan-le.com/)
