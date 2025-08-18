@@ -20,7 +20,7 @@ My name is Ryan Le and I'm a Toronto Metropolitan (Formerly Ryerson) University 
 
 👨‍💻 Work Experience
 
- - Full-Stack Developer Intern @ WSP Canada [Fall 2023 - August 2024]
+ - Software Developer Intern @ WSP Canada [Fall 2023 - August 2024]
  - Team Captain @ [Toronto MetRobotics](https://www.torontometrobotics.com/) [Aug 2024 - Aug 2025]
  - Software Developer Lead @ [Toronto MetRobotics](https://www.torontometrobotics.com/) | Autonomous Division [Sept 2022 - Aug 2025]
 
